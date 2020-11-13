@@ -1,0 +1,49 @@
+body {
+    background-image: linear-gradient(1000000deg, purple, blue);
+    color: linear-gradient(0deg, #070707, #ffffff);
+    font-family: 'Poppins', sans-serif;
+    min-height: 100vh;
+    
+     background-image: url("https://cdn-0.preppywallpapers.com/wp-content/uploads/2018/09/1-iPhone-X-Wallpapers-by-PreppyWallpapers.jpg");
+    
+       
+      
+}
+
+
+
+
+
+
+/* change jumbotron color*/
+.jumbotron{
+    color: #FFFFFF;
+    background-color: rgb(150, 146, 146);
+}
+
+
+.card {
+    margin-top: 30px;
+}
+
+#cardsArea {
+    margin-top: 30px;
+}
+
+#form {
+    border: 2px solid rgb(13, 222, 230);
+    padding: 25px;
+}
+
+.cardStyle{
+    background-color: rgb(162, 0, 255);
+}
+
+.cardStyle li {
+    background-color:white
+}
+  
+  
+
+ 
+  
